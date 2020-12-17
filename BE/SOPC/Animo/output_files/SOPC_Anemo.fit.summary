@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Dec 17 08:53:42 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : SOPC_Anemo
+Top-level Entity Name : SOPC_Anemo_block
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 2,471 / 22,320 ( 11 % )
+    Total combinational functions : 2,296 / 22,320 ( 10 % )
+    Dedicated logic registers : 1,256 / 22,320 ( 6 % )
+Total registers : 1256
+Total pins : 34 / 154 ( 22 % )
+Total virtual pins : 0
+Total memory bits : 338,944 / 608,256 ( 56 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

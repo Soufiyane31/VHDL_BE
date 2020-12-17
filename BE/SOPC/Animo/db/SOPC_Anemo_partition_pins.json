@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "pwm",
+					"strict" : false
+				},
+				{
+					"name" : "sortie_ba",
+					"strict" : false
+				},
+				{
+					"name" : "sortie_ST",
+					"strict" : false
+				},
+				{
+					"name" : "sortie_tri",
+					"strict" : false
+				},
+				{
+					"name" : "buzzer",
+					"strict" : false
+				},
+				{
+					"name" : "IO[7]",
+					"strict" : false
+				},
+				{
+					"name" : "IO[6]",
+					"strict" : false
+				},
+				{
+					"name" : "IO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "IO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "IO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "IO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "IO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "IO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Sortie[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Sortie[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Sortie[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Sortie[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Sortie[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Sortie[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Sortie[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Sortie[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "bptri",
+					"strict" : false
+				},
+				{
+					"name" : "bpba",
+					"strict" : false
+				},
+				{
+					"name" : "bpst",
+					"strict" : false
+				},
+				{
+					"name" : "Entree[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Entree[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Entree[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Entree[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Entree[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Entree[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Entree[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Entree[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RAZ",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

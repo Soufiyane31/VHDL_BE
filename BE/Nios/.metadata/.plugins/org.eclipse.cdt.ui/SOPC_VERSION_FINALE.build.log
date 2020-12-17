@@ -1,0 +1,9 @@
+08:37:34 **** Incremental Build of configuration Nios II for project SOPC_VERSION_FINALE ****
+make all 
+Info: Building C:/Users/selgu/Desktop/M2_sme/BE/BE/Nios/software/SOPC_VERSION_FINALE_bsp/
+C:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C C:/Users/selgu/Desktop/M2_sme/BE/BE/Nios/software/SOPC_VERSION_FINALE_bsp/
+[BSP build complete]
+[SOPC_VERSION_FINALE build complete]
+
+08:37:35 Build Finished (took 1s.6ms)
+

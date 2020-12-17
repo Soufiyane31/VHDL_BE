@@ -1,0 +1,27 @@
+
+State Machine - |SOPC_Anemo_block|SOPC_Anemo:inst|SOPC_Anemo_nios2_gen2_0:nios2_gen2_0|SOPC_Anemo_nios2_gen2_0_cpu:cpu|SOPC_Anemo_nios2_gen2_0_cpu_nios2_oci:the_SOPC_Anemo_nios2_gen2_0_cpu_nios2_oci|SOPC_Anemo_nios2_gen2_0_cpu_debug_slave_wrapper:the_SOPC_Anemo_nios2_gen2_0_cpu_debug_slave_wrapper|SOPC_Anemo_nios2_gen2_0_cpu_debug_slave_tck:the_SOPC_Anemo_nios2_gen2_0_cpu_debug_slave_tck|DRsize
+Name DRsize.101 DRsize.100 DRsize.011 DRsize.010 DRsize.001 DRsize.000 
+DRsize.000 0 0 0 0 0 0 
+DRsize.001 0 0 0 0 1 1 
+DRsize.010 0 0 0 1 0 1 
+DRsize.011 0 0 1 0 0 1 
+DRsize.100 0 1 0 0 0 1 
+DRsize.101 1 0 0 0 0 1 
+
+State Machine - |SOPC_Anemo_block|SOPC_Anemo:inst|avalon_animometre:animo_0|animometre:animometre|etat_present
+Name etat_present.etat5 etat_present.etat4 etat_present.etat3 etat_present.etat2 etat_present.etat1 etat_present.etat0 
+etat_present.etat0 0 0 0 0 0 0 
+etat_present.etat1 0 0 0 0 1 1 
+etat_present.etat2 0 0 0 1 0 1 
+etat_present.etat3 0 0 1 0 0 1 
+etat_present.etat4 0 1 0 0 0 1 
+etat_present.etat5 1 0 0 0 0 1 
+
+State Machine - |SOPC_Anemo_block|SOPC_Anemo:inst|avalon_animometre:animo_0|animometre:animometre|etat_future
+Name etat_future.etat5 etat_future.etat4 etat_future.etat3 etat_future.etat2 etat_future.etat1 etat_future.etat0 
+etat_future.etat0 0 0 0 0 0 0 
+etat_future.etat1 0 0 0 0 1 1 
+etat_future.etat2 0 0 0 1 0 1 
+etat_future.etat3 0 0 1 0 0 1 
+etat_future.etat4 0 1 0 0 0 1 
+etat_future.etat5 1 0 0 0 0 1 

@@ -1,0 +1,9 @@
+07:02:43 **** Incremental Build of configuration Nios II for project SOPC_FIN_BARREF ****
+make all 
+Info: Building C:/Users/selgu/Desktop/M2_sme/BE/BE/Nios/software/SOPC_FIN_BARREF_bsp/
+C:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C C:/Users/selgu/Desktop/M2_sme/BE/BE/Nios/software/SOPC_FIN_BARREF_bsp/
+[BSP build complete]
+[SOPC_FIN_BARREF build complete]
+
+07:02:44 Build Finished (took 1s.61ms)
+

@@ -1,0 +1,9 @@
+05:53:09 **** Incremental Build of configuration Nios II for project VERSIONFINALE_Barre ****
+make all 
+Info: Building C:/Users/selgu/Desktop/M2_sme/BE/BE/Nios/software/VERSIONFINALE_Barre_bsp/
+C:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C C:/Users/selgu/Desktop/M2_sme/BE/BE/Nios/software/VERSIONFINALE_Barre_bsp/
+[BSP build complete]
+[VERSIONFINALE_Barre build complete]
+
+05:53:10 Build Finished (took 1s.3ms)
+
